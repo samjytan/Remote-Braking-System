@@ -1,4 +1,2 @@
 # Remote-Braking-System
-GNG2101 Project 
-
-The Arduino code used to wirelessly control a motor
+The code found in this file is used to wirelessly control a motor at the press of a button
